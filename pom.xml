@@ -12,7 +12,7 @@
 	<artifactId>my-resume</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>my-resume</name>
-	<description>my resume website</description>
+	<description>展示个人简历的网页。访问地址：http://www.wujiahui.net/</description>
 	<packaging>war</packaging>
 
 	<properties>
